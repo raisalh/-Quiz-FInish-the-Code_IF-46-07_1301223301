@@ -14,17 +14,19 @@
 
 5. Add user page
    ![image](https://github.com/user-attachments/assets/f1a22e37-e591-4050-a67f-9a84595bff2b)
+   tampilan user list
    ![image](https://github.com/user-attachments/assets/038a880c-663e-4295-a9c6-18a4ee82481c)
 
-6. Edit page
+7. Edit page
     ![image](https://github.com/user-attachments/assets/378ca2a9-90b6-4fe3-b460-f6226f4fdd98)
+   tampilan user list
     ![image](https://github.com/user-attachments/assets/3f2be600-b440-4655-b20f-dd4bac1a8a86)
 
-7. Delete page
+8. Delete page
    Sebelum di delete
    ![image](https://github.com/user-attachments/assets/c32c10c1-4360-4323-941d-42d7d341a41f)
    Sesudah di delete
    ![image](https://github.com/user-attachments/assets/eaade6aa-3eff-4c1c-9679-833df1a0a345)
 
-8. Error page
+9. Error page
    ![image](https://github.com/user-attachments/assets/de64cbd7-4b88-4bc3-a78e-2202557d4f11)
